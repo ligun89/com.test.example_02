@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class test {
+public class test {
+
+    void testMethod(){
+        System.out.println("Tes1111t");
+        return;
+    }
 }
